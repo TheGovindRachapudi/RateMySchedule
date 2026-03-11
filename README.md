@@ -2,6 +2,8 @@
 
 RateMySchedule is an AI-assisted schedule optimizer for UT students. Instead of making students brute-force dozens of section combinations inside a registration portal, it turns schedule planning into a recommendation problem: tell the app what you need, what kind of week you want, and it returns ranked schedule paths with clear tradeoffs, weekly visualization, walking analysis, and calendar export.
 
+Live preview: https://skill-deploy-q0taimznfh-codex-agent-deploys.vercel.app
+
 ## One-Line Pitch
 
 The decision engine for building a higher-upside semester.
@@ -207,3 +209,4 @@ src/
 RateMySchedule is building the decision layer on top of course registration: not just what classes exist, but which semester is most worth choosing.
 
 That shift from raw options to ranked decisions is the product, and that is where the long-term upside lives.
+
