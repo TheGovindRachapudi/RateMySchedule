@@ -52,7 +52,7 @@ export default function AppPage() {
       <main className="app-page-layout section-frame app-page-top-gap">
         <div className="app-page-intro">
           <p className="landing-eyebrow">Optimizer</p>
-          <h1 className="app-page-title">Build the best version of your semester before UTDirect becomes a blood sport.</h1>
+          <h1 className="app-page-title">Design the highest-upside version of your semester before registration opens.</h1>
           <p>Use natural language, structured picks, or both. We keep everything in memory and score the schedules live.</p>
           <StepIndicator step={step} />
         </div>
