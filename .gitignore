@@ -1,0 +1,5 @@
+﻿node_modules/
+dist/
+.vite/
+devserver.out.log
+devserver.err.log
